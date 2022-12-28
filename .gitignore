@@ -30,6 +30,8 @@
 *.cpt
 *.zip
 *.gz
+*.kml
+*.kmz
 fort.*
 tmp*
 gmt.*
